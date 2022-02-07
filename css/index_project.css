@@ -1,0 +1,72 @@
+div {
+    height: 600px;
+    width: 600px;
+    display: flex;
+}
+
+.theme-1 {
+    border: 9px solid #ff91e7;
+    font-size: 60px;
+    border-radius: 20px;
+    background-color: #ff91e7;
+}
+
+.theme-1 .right {
+    background-color: #ca635a;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.theme-1 .left {
+    background-color: #d78881;
+    border-radius: 10px;
+    color: #fff;
+    position: relative;
+}
+
+.theme-1 button {
+    position: absolute;
+    background-color: #471b17;
+    height: 80px;
+    width: 150px;
+    border-radius: 10px;
+    bottom: 20px;
+    color: #76d16e;
+    font-size: large;
+    right: 10px;
+}
+
+.theme-2 {
+    border: 9px solid #f7ea86;
+    font-size: 60px;
+    border-radius: 20px;
+    background-color: #f7ea86;
+}
+
+.theme-2 .right {
+    background-color: #4a7165;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.theme-2 .left {
+    background-color: #83a891;
+    border-radius: 10px;
+    color: #fff;
+    position: relative;
+}
+
+.theme-2 button {
+    position: absolute;
+    background-color: #bb6a4d;
+    height: 80px;
+    width: 150px;
+    border-radius: 10px;
+    bottom: 20px;
+    color: #fff;
+    font-size: large;
+    right: 10px;
+}
+
+
+/*# sourceMappingURL=index_project.css.map */
